@@ -25,7 +25,6 @@ This tool is for educational purposes only. It demonstrates security concepts an
 
 # 📌 Author
 Developed by Maxado God
-Discord Username - .maxadogod.
 
 <img width="983" height="506" alt="image" src="https://github.com/user-attachments/assets/dbc90efd-a055-4657-8522-62faea443916" />
 
